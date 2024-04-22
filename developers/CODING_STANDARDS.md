@@ -71,7 +71,7 @@ this topic and on writing short functions.
 
 ## Error Handling
 
-  - Error messags must be uniquly identifiable so the root cause in code can be traced. They should contain unique text.
+  - Error messages must be uniquely identifiable so the root cause in code can be traced. They should contain unique text.
 
   - The developer must differentiate between failures of our system and failures of other systems, because they are handled very differently.
 
