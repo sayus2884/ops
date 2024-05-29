@@ -112,6 +112,8 @@ develop in this case.
 
 When you create your pull request:
 
+  - Remember to run Linting if applicable.
+  - It’s best to check the tests pass before merging (but you’ll be notified if they fail in Slack anyway). Don’t break the tests in `develop` for long… If you do, fix them ASAP because other devs will be unable to test their work otherwise.-
   - Review it on BitBucket yourself because it lets you find embarassing
     mistakes without your team seeing them ;)
   - Comment on specific lines you want the reviewer to notice.
@@ -121,9 +123,7 @@ When you create your pull request:
     the code at any time based on the team's needs. Communicate about
     what you're doing. If code is merged before you review, the reviewer
     can still add comments and changes can be patched in as needed.
-  - Do not merge unless the tests are passing. Don't break the tests in
-    `develop`. If you do, fix them ASAP because other devs will be
-    unable to test their work otherwise.
+
 
 ## Tips for Code Reviews
 
