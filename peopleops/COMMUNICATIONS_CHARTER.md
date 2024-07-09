@@ -102,9 +102,7 @@ See [Meetings](MEETINGS.md)
 
 Slack is for asynchronous, non-critical, informal coordination and updates.
 
-Use the following notification setting. You should only be notified when people direct message or mention you, and only during your work hours.
-
-![Slack Notification Setting](/assets/images/recommended-slack-setting.png)
+Use the following notification setting: You should only be notified when people direct message or mention you, and only during your work hours.
 
   - If you're going away for more than 1 hour during the day when you normally work, notify your team in #general. If you're taking less than 1 hour, avoid the clutter :) There are lots of people who will have to read your message.
   - If the message could be useful to more than one person, post it in the most relevant public or project channel.
