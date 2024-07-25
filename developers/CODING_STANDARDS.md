@@ -143,11 +143,13 @@ const WATERED_SOIL_MULTIPLIERS = {
   [LOAM]: 1.5,
   [CLAY]: 0.75,
   [SILTY]: 0.35,
+  [SANDY]: 0.15,
 };
 const UNWATERED_SOIL_MULTIPLIERS = {
   [LOAM]: 1,
   [CLAY]: 0.5,
   [SILTY]: 0.25,
+  [SANDY]: 0.08,
 };
 
 function getPlantGrowthMultiplier(soilType, isPlanted, hasSunlight, isWatered) {
