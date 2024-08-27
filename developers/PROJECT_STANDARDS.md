@@ -74,7 +74,7 @@ DRAFT
 
 Front-end development is exciting, but also a challenge. This is due to the fact that there are so many tools available for so many different things, and this side of the world moves fast. Main considerations:
 
-1.  **Browser compability** - Does the website look good on Chrome? Firefox? Ipad? Galaxy? iPhone?
+1.  **Browser compatibility** - Does the website look good on Chrome? Firefox? Ipad? Galaxy? iPhone?
 2.  **Device compatibility** (Responsive Design) - On monitors that are not 1080p? 10 inch laptops at 1280 x 720?
 3.  **Automation** - Nowadays, you don't necessarily need to CODE for this, since there are tools like Babel, Normalize.css, Autoprefixer which help make this happen.
 
@@ -88,7 +88,7 @@ On larger sites with an accessibility budget:
 
 Tooling for different areas can be in any of the following status:
 
-  - *Unspecified* - Use whatever you want as long as it's well supported.
+  - *Unspecified* - Use whatever you want as long as it's well-supported.
   - *Recommendation* - We recommend using a specific tool, but developer expertise or another reason could override this.
   - *Standard* - You should only deviate from this tooling choice for a specific reason.
 
